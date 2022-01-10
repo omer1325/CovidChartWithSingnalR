@@ -1,5 +1,6 @@
 C:\Users\omer\source\repos\SignalR\SignalR.Web\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\omer\source\repos\SignalR\SignalR.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\omer\source\repos\SignalR\SignalR.Web\bin\Debug\net5.0\libman.json
 C:\Users\omer\source\repos\SignalR\SignalR.Web\bin\Debug\net5.0\SignalR.Web.exe
 C:\Users\omer\source\repos\SignalR\SignalR.Web\bin\Debug\net5.0\SignalR.Web.deps.json
 C:\Users\omer\source\repos\SignalR\SignalR.Web\bin\Debug\net5.0\SignalR.Web.runtimeconfig.json
@@ -9,6 +10,7 @@ C:\Users\omer\source\repos\SignalR\SignalR.Web\bin\Debug\net5.0\ref\SignalR.Web.
 C:\Users\omer\source\repos\SignalR\SignalR.Web\bin\Debug\net5.0\SignalR.Web.pdb
 C:\Users\omer\source\repos\SignalR\SignalR.Web\bin\Debug\net5.0\SignalR.Web.Views.dll
 C:\Users\omer\source\repos\SignalR\SignalR.Web\bin\Debug\net5.0\SignalR.Web.Views.pdb
+C:\Users\omer\source\repos\SignalR\SignalR.Web\obj\Debug\net5.0\SignalR.Web.csproj.AssemblyReference.cache
 C:\Users\omer\source\repos\SignalR\SignalR.Web\obj\Debug\net5.0\SignalR.Web.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\omer\source\repos\SignalR\SignalR.Web\obj\Debug\net5.0\SignalR.Web.AssemblyInfoInputs.cache
 C:\Users\omer\source\repos\SignalR\SignalR.Web\obj\Debug\net5.0\SignalR.Web.AssemblyInfo.cs
@@ -37,5 +39,4 @@ C:\Users\omer\source\repos\SignalR\SignalR.Web\obj\Debug\net5.0\ref\SignalR.Web.
 C:\Users\omer\source\repos\SignalR\SignalR.Web\obj\Debug\net5.0\SignalR.Web.pdb
 C:\Users\omer\source\repos\SignalR\SignalR.Web\obj\Debug\net5.0\SignalR.Web.genruntimeconfig.cache
 C:\Users\omer\source\repos\SignalR\SignalR.Web\obj\Debug\net5.0\SignalR.Web.csproj.CopyComplete
-C:\Users\omer\source\repos\SignalR\SignalR.Web\bin\Debug\net5.0\libman.json
-C:\Users\omer\source\repos\SignalR\SignalR.Web\obj\Debug\net5.0\SignalR.Web.csproj.AssemblyReference.cache
+C:\Users\omer\source\repos\SignalR\SignalR.Web\obj\Debug\net5.0\Razor\Views\Home\Index2.cshtml.g.cs
